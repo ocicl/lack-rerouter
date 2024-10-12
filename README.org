@@ -1,0 +1,9 @@
+* lack-rerouter
+
+lack middleware to reroute URIs of requests
+
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/daninus14/lack-rerouter.git |
+| commit  | 4a802bf                                            |
+| systems | lack-rerouter                                      |
+|---------+----------------------------------------------------|
